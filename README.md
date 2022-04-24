@@ -29,7 +29,7 @@ SO THAT my company can compete with other e-commerce companies
 - Run 
 `npm install sequelize`
 
--Run
+- Run
 `npm install dotenv`
 
 ## Usage
